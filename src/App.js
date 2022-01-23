@@ -41,6 +41,7 @@ class App extends Component {
                     handleChange={this.handleChange}
                 />
                 <CardList monsters={filteredMonsters}/>
+                <div className="footer">Elhag Consulting - 2022</div>
             </div>
         )
     }
