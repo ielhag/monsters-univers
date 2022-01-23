@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47505fa64c30326d333d24f33d77e671",
+    "revision": "1bf2337f8bd674f80fbbcbe9771465b3",
     "url": "/monsters-univers/index.html"
   },
   {
-    "revision": "d6595040c33ed0719ce2",
-    "url": "/monsters-univers/static/css/main.b7ed144d.chunk.css"
+    "revision": "3ed2f2d452698c61bf56",
+    "url": "/monsters-univers/static/css/main.f118267f.chunk.css"
   },
   {
     "revision": "42d8e8859104679ce821",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsters-univers/static/js/3.12bf67e3.chunk.js"
   },
   {
-    "revision": "d6595040c33ed0719ce2",
-    "url": "/monsters-univers/static/js/main.ba4a9154.chunk.js"
+    "revision": "3ed2f2d452698c61bf56",
+    "url": "/monsters-univers/static/js/main.1d07e263.chunk.js"
   },
   {
     "revision": "89c93d7e53320cbb0f49",

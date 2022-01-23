@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/monsters-univers/static/css/main.b7ed144d.chunk.css",
-    "main.js": "/monsters-univers/static/js/main.ba4a9154.chunk.js",
-    "main.js.map": "/monsters-univers/static/js/main.ba4a9154.chunk.js.map",
+    "main.css": "/monsters-univers/static/css/main.f118267f.chunk.css",
+    "main.js": "/monsters-univers/static/js/main.1d07e263.chunk.js",
+    "main.js.map": "/monsters-univers/static/js/main.1d07e263.chunk.js.map",
     "runtime~main.js": "/monsters-univers/static/js/runtime~main.aaae4706.js",
     "runtime~main.js.map": "/monsters-univers/static/js/runtime~main.aaae4706.js.map",
     "static/js/2.bc0e5e72.chunk.js": "/monsters-univers/static/js/2.bc0e5e72.chunk.js",
@@ -10,8 +10,8 @@
     "static/js/3.12bf67e3.chunk.js": "/monsters-univers/static/js/3.12bf67e3.chunk.js",
     "static/js/3.12bf67e3.chunk.js.map": "/monsters-univers/static/js/3.12bf67e3.chunk.js.map",
     "index.html": "/monsters-univers/index.html",
-    "precache-manifest.56884d5674a4e394038bb2de00f87ed9.js": "/monsters-univers/precache-manifest.56884d5674a4e394038bb2de00f87ed9.js",
+    "precache-manifest.c688d40d15120cf4d0ca61b07ca76341.js": "/monsters-univers/precache-manifest.c688d40d15120cf4d0ca61b07ca76341.js",
     "service-worker.js": "/monsters-univers/service-worker.js",
-    "static/css/main.b7ed144d.chunk.css.map": "/monsters-univers/static/css/main.b7ed144d.chunk.css.map"
+    "static/css/main.f118267f.chunk.css.map": "/monsters-univers/static/css/main.f118267f.chunk.css.map"
   }
 }
