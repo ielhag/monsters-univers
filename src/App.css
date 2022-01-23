@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-top:2em;
 }
 
 .App-logo {
@@ -13,6 +14,12 @@
   }
 }
 
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 10vh;
+  color: white;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -21,11 +28,36 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  font-family: Futura, 'sans-serif';
+  text-transform: uppercase;
+  color: black;
+  font-weight: bolder;
 }
-
 .App-link {
   color: #61dafb;
+}
+
+.button {
+  background-color: #4c86af; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 @keyframes App-logo-spin {
