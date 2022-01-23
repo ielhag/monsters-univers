@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/monsters-univers/static/css/main.b7ed144d.chunk.css",
+    "main.js": "/monsters-univers/static/js/main.ba4a9154.chunk.js",
+    "main.js.map": "/monsters-univers/static/js/main.ba4a9154.chunk.js.map",
+    "runtime~main.js": "/monsters-univers/static/js/runtime~main.aaae4706.js",
+    "runtime~main.js.map": "/monsters-univers/static/js/runtime~main.aaae4706.js.map",
+    "static/js/2.bc0e5e72.chunk.js": "/monsters-univers/static/js/2.bc0e5e72.chunk.js",
+    "static/js/2.bc0e5e72.chunk.js.map": "/monsters-univers/static/js/2.bc0e5e72.chunk.js.map",
+    "static/js/3.12bf67e3.chunk.js": "/monsters-univers/static/js/3.12bf67e3.chunk.js",
+    "static/js/3.12bf67e3.chunk.js.map": "/monsters-univers/static/js/3.12bf67e3.chunk.js.map",
+    "index.html": "/monsters-univers/index.html",
+    "precache-manifest.ca561a2140c199ffc3658db5cb3948a4.js": "/monsters-univers/precache-manifest.ca561a2140c199ffc3658db5cb3948a4.js",
+    "service-worker.js": "/monsters-univers/service-worker.js",
+    "static/css/main.b7ed144d.chunk.css.map": "/monsters-univers/static/css/main.b7ed144d.chunk.css.map"
+  }
+}
